@@ -1,7 +1,5 @@
-I'll create a comprehensive README.md file for your project.
-
 ```markdown:README.md
-# JSON Server TypeScript
+# JSON Server with TypeScript
 
 A RESTful API server built with Node.js, Express, and TypeScript that serves mock data similar to JSONPlaceholder. The server uses a local `db.json` file as its database.
 
